@@ -4,3 +4,4 @@ This program connects HTML frontend to a Python backend that is connected to a C
 NOTE: THE TEMPLATE FOLDER IS REQUIRED TO RUN WEBPAGE WITH FLASK!
 ----------------------------------------------------------------------------------------------------------------------------------------------
 API Data provided by: COVID Data: https://covidtracking.com/data/api Weather Data: https://openweathermap.org/api
+Collaborated with: Vineeth Vemuri
