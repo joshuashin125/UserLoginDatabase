@@ -13,7 +13,7 @@ import pymsgbox
 import requests, json
 
 # Sets dataframe and other variables
-userData = pd.read_csv('chatbot_spreadsheet.csv')
+userData = pd.read_csv('userDb.csv')
 cityOfChoice = ""
 stateOfChoice = ""
 app = Flask(__name__)
